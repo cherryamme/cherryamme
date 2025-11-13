@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/cherryamme"><img src="https://github-profile-trophy.vercel.app/?username=cherryamme" alt="cherryamme" /></a> </p>
 
-- 🔭 I’m currently a student **develep ViruSeurat**
-
-- 🌱 I’m currently learning **R MachineLearning**
+- 🔭 I’m currently a student
 
 - 👯 I’m looking to collaborate on **Amazing tools**
 
